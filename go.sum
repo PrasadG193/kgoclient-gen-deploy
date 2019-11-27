@@ -4,6 +4,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
 github.com/PrasadG193/kgoclient-gen v0.0.0-20191111125208-59c766013dfc h1:1HFH1cUQ4Q2ARJGhtQo3meFH18iPphJe8mUJix2lpOo=
 github.com/PrasadG193/kgoclient-gen v0.0.0-20191111125208-59c766013dfc/go.mod h1:sCiBzO6rvo6OGMk4+fVi/BcqHHx4TRyrvwVIA8Yp6UQ=
+github.com/PrasadG193/kgoclient-gen v0.0.0-20191127155439-989fa455b82f h1:oinjn1/PsncGEiZdNszCIHayqN7hlkJEnY8gYRaL1EI=
+github.com/PrasadG193/kgoclient-gen v0.0.0-20191127155439-989fa455b82f/go.mod h1:sCiBzO6rvo6OGMk4+fVi/BcqHHx4TRyrvwVIA8Yp6UQ=
 github.com/PuerkitoBio/purell v1.0.0/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
 github.com/PuerkitoBio/urlesc v0.0.0-20160726150825-5bd2802263f2/go.mod h1:uGdkoq3SwY9Y+13GIhn11/XLaGBb4BfwItxLd5jeuXE=
 github.com/cpuguy83/go-md2man/v2 v2.0.0-20190314233015-f79a8a8ca69d/go.mod h1:maD7wRr/U5Z6m/iR4s+kqSMx2CaBsrgA7czyZG/E6dU=

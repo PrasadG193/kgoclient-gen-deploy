@@ -14,7 +14,8 @@ import (
 func HandleConvert(w http.ResponseWriter, r *http.Request) {
 	// Enable CORS
 	w.Header().Set("Access-Control-Allow-Origin", "*")
-	w.Header().Set("Access-Control-Allow-Headers", "Content-Type")
+	w.Header().Set("Access-Control-Allow-Headers", "Accept, Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization")
+	w.Header().Set("Access-Control-Allow-Methods", "POST")
 
 	urlPQ, _ := url.ParseQuery(r.URL.RawQuery)
 	method := generator.KubeMethod(urlPQ.Get("method"))

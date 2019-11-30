@@ -13,7 +13,8 @@ import (
 
 func HandleConvert(w http.ResponseWriter, r *http.Request) {
 	// Enable CORS
-	w.Header().Set("Access-Control-Allow-Origin", "https://kgoclient.prasadg.dev")
+	w.Header().Set("Access-Control-Allow-Origin", "*")
+	w.Header().Set("Access-Control-Allow-Methods", "POST")
 	w.Header().Set("Access-Control-Allow-Headers", "Content-Type")
 
 	urlPQ, _ := url.ParseQuery(r.URL.RawQuery)

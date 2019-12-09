@@ -12,6 +12,8 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
 github.com/PrasadG193/kyaml2go v0.0.0-20191209154546-fd10bd78f7c2 h1:kVxT7SXxbGvlaqUrO7/Z2Rsr3gcrpsfe+w0QQygUvzE=
 github.com/PrasadG193/kyaml2go v0.0.0-20191209154546-fd10bd78f7c2/go.mod h1:rnwYqq/LgKQgUvtRPF+/lBB58pceM2GNyx1Kn2F1CW4=
+github.com/PrasadG193/kyaml2go v0.0.0-20191209183644-05dcbb075ad9 h1:zxKIThiEFawV035qohVz1M1xsN4VlkX0NJ2rDv2cuiw=
+github.com/PrasadG193/kyaml2go v0.0.0-20191209183644-05dcbb075ad9/go.mod h1:rnwYqq/LgKQgUvtRPF+/lBB58pceM2GNyx1Kn2F1CW4=
 github.com/PuerkitoBio/purell v1.0.0/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
 github.com/PuerkitoBio/urlesc v0.0.0-20160726150825-5bd2802263f2/go.mod h1:uGdkoq3SwY9Y+13GIhn11/XLaGBb4BfwItxLd5jeuXE=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=

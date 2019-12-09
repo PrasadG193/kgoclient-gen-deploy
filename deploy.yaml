@@ -7,4 +7,4 @@ steps:
   - --trigger-http
   - --source=.
   - --entry-point=HandleConvert
-  - kgoclient-gen
+  - kyaml2go

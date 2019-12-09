@@ -1,2 +1,2 @@
-# kgoclient-gen-deploy
-kgoclient-gen deployer
+# kyaml2go-deploy
+kyaml2go deployer

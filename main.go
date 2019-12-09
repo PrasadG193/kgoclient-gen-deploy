@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/PrasadG193/kgoclient-gen/pkg/generator"
+	"github.com/PrasadG193/kyaml2go/pkg/generator"
 )
 
 func HandleConvert(w http.ResponseWriter, r *http.Request) {

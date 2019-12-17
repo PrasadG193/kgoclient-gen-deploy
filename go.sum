@@ -14,6 +14,8 @@ github.com/PrasadG193/kyaml2go v0.0.0-20191209154546-fd10bd78f7c2 h1:kVxT7SXxbGv
 github.com/PrasadG193/kyaml2go v0.0.0-20191209154546-fd10bd78f7c2/go.mod h1:rnwYqq/LgKQgUvtRPF+/lBB58pceM2GNyx1Kn2F1CW4=
 github.com/PrasadG193/kyaml2go v0.0.0-20191209183644-05dcbb075ad9 h1:zxKIThiEFawV035qohVz1M1xsN4VlkX0NJ2rDv2cuiw=
 github.com/PrasadG193/kyaml2go v0.0.0-20191209183644-05dcbb075ad9/go.mod h1:rnwYqq/LgKQgUvtRPF+/lBB58pceM2GNyx1Kn2F1CW4=
+github.com/PrasadG193/kyaml2go v0.0.0-20191217094822-f97006e9304f h1:dtkDQSX3YwGFKHgpvhxcBb7epOkQqL0wr2w8kP/2uB8=
+github.com/PrasadG193/kyaml2go v0.0.0-20191217094822-f97006e9304f/go.mod h1:rnwYqq/LgKQgUvtRPF+/lBB58pceM2GNyx1Kn2F1CW4=
 github.com/PuerkitoBio/purell v1.0.0/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
 github.com/PuerkitoBio/urlesc v0.0.0-20160726150825-5bd2802263f2/go.mod h1:uGdkoq3SwY9Y+13GIhn11/XLaGBb4BfwItxLd5jeuXE=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
